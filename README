@@ -1,0 +1,11 @@
+Script: shows.py
+By: Nicholas Mavis
+
+Pythong script that pulls all EDM shows from major venues in the DC/MD area. It will them print them via console with the following data:
+
+- Headliner
+- Openers
+- Date
+- Doors
+
+Plans to add cost and see if tickets are sold out are possible. Still currently in development.
